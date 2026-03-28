@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aguilera <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Paraguay</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **HelpDesk and Analyst IT**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Apex Oracle, Oracle Forms,HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **jose.maria13122000@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **I like so much reading, play the guitar and training ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -41,6 +41,9 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://www.oracle.com/" target="_blank"> 
+    <img src="https://www.svgrepo.com/show/354152/oracle.svg alt="Oracle" width="40" height="40"/> 
   </a>
 </p>
 
