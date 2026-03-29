@@ -1,10 +1,3 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Aguilera <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Paraguay</h3>
 
