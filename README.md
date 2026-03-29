@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/aguilera321/aguilera321/blob/main/banner%20nuevo%20linkedin.png?raw=true" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/aguilera321/aguilera321/blob/121977cce270c0035b7376af9027c8f9b86d3892/banner%20nuevo%20linkedin.png" alt=”my banner”>
 
 </p>
 
