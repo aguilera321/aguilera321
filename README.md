@@ -1,3 +1,10 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/aguilera321/aguilera321/blob/main/banner%20nuevo%20linkedin.png?raw=true" alt=”my banner”>
+
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Aguilera <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Paraguay</h3>
 
